@@ -5,7 +5,7 @@ Uses Task Scheduler (in built in Windows) to Run a curl command that loggins to 
 ## 1) Download and Unzip:
    • download something somthing and unzip it
 ## 2) Place the Batch File:
-   • place *wryyy.bat* somewhere safe (If u relocate it after setup you need to again specify path of it to task scheduler)
+   • place ![wryyy.bat](https://raw.githubusercontent.com/NishchayKQ/nyaTheFi/main/wryyy.bat) somewhere safe (If u relocate it after setup you need to again specify path of it to task scheduler)
 ## 3) Open Task Scheduler:
    • search *task scheduler* in the windows search and open it (or 🪟 Win + R --> Run *taskschd.msc*)  
       
@@ -13,8 +13,7 @@ Uses Task Scheduler (in built in Windows) to Run a curl command that loggins to 
 
 ## 4) Import Task:
    • click on *Import Task...*  
-   • select lanHehe.xml 
-      download it <a href="https://raw.githubusercontent.com/NishchayKQ/nyaTheFi/main/lanHehe.xml" download>here</a>
+   • select ![lanHehe.xml](https://raw.githubusercontent.com/NishchayKQ/nyaTheFi/main/lanHehe.xml)
       
 <img src="https://github.com/NishchayKQ/nyaTheFi/assets/108711354/0fa46ff3-97ea-4344-b196-863e522929ac" width=50% height=35%>  
 
