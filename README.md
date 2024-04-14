@@ -13,6 +13,8 @@ Uses Task Scheduler (in built in Windows) to Run a curl command that loggins to 
 
 ## 4) Import Task:
    • click on *Import Task...*  
+   • select lanHehe.xml 
+      download it <a href="https://raw.githubusercontent.com/NishchayKQ/nyaTheFi/main/lanHehe.xml" download>here</a>
       
 <img src="https://github.com/NishchayKQ/nyaTheFi/assets/108711354/0fa46ff3-97ea-4344-b196-863e522929ac" width=50% height=35%>  
 
